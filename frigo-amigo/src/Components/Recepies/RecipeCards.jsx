@@ -1,6 +1,6 @@
-import pie from '../../Pictures/Pie.png';
-import line from '../../Pictures/Line 5.png';
-import arrows from '../../Pictures/Group 34.png';
+import pie from '../../assets/Pictures/Pie.png';
+import line from '../../assets/Pictures/Line 5.png';
+import arrows from '../../assets/Pictures/Group 34.png';
 
 const RecipeCards = (props) => {
   const { recipes } = props;

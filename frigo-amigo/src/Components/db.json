@@ -20,6 +20,37 @@
           "inviteCode": "zcfoagv",
           "premiumUntil": null,
           "premium": false
+        },
+        {
+          "name": "asfafsdf",
+          "ownerEmail": "user6@user.ru",
+          "usersEmails": ["bbb@bbb.bbb"],
+          "inviteCode": "zcfoagv",
+          "premiumUntil": null,
+          "premium": false
+        }
+      ]
+    },
+    {
+      "name": "qqq",
+      "email": "qqq@qqq.qqq",
+      "password": "qqqQQQ111!!!",
+      "fridges": [
+        {
+          "name": "qqq",
+          "ownerEmail": "qqq@qqq.qqq",
+          "usersEmails": ["aaa@aaa.aaa", "bbb@bbb.bbb"],
+          "inviteCode": "xtbxfis",
+          "premiumUntil": "18/01/2024",
+          "premium": true
+        },
+        {
+          "name": "asfafsdf",
+          "ownerEmail": "user6@user.ru",
+          "usersEmails": ["bbb@bbb.bbb"],
+          "inviteCode": "zcfoagv",
+          "premiumUntil": null,
+          "premium": false
         }
       ]
     }
